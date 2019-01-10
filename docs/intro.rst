@@ -1,4 +1,4 @@
-GEOGG124  TERRESTRIAL CARBON: MODELLING and MONITORING
+GEOG0133  TERRESTRIAL CARBON: MODELLING and MONITORING
 =======================================================
 
 Aims of the course

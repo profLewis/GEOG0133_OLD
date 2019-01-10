@@ -1,4 +1,4 @@
-Reading List for GEOGG124 TERRESTRIAL CARBON: MODELLING and MONITORING
+Reading List for GEOG0133 TERRESTRIAL CARBON: MODELLING and MONITORING
 ======================================================================
 
 General
