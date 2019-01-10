@@ -3,7 +3,9 @@
 Staff:
 
 PL: Professor Philip Lewis
+
 MD: Professor Mathias Disney
+
 JGD: Dr Jose Gomez-Dans
 
 ## Timetable Term 2 2019
