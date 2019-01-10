@@ -1,9 +1,9 @@
-.. geogg124 documentation master file, created by
+.. GEOG0133 documentation master file, created by
    sphinx-quickstart on Tue Jan  3 09:26:28 2012.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to GEOGG124 Terrestrial Carbon: modelling and monitoring 
+Welcome to GEOG0133 Terrestrial Carbon: modelling and monitoring 
 ==================================================================
 
 Course Convenor 
@@ -40,7 +40,7 @@ Course Moodle page
 Additional Information
 -------------------------
 
-[`Reading list <readingList.html>`_] [`Glossary of terms <glossary.html>`_] [`PDF <python/geogg124.pdf>`_]
+[`Reading list <readingList.html>`_] [`Glossary of terms <glossary.html>`_] [`PDF <python/GEOG0133.pdf>`_]
 
 Timetable Term 2 2013
 ======================
@@ -82,13 +82,13 @@ Contents
 Lectures
 ========
 
-* Lecture 1a: (Fri 18 Jan 2-5) `Introduction to the Course [PDF <figures/Geogg124-lecture0.pdf>`_][`PPTX <figures/Geogg124-lecture0.pptx>`_]
-* Lecture 1b: (Fri 18 Jan 2-5) `The Terrestrial Carbon Cycle [PDF <figures/Geogg124-lecture1.pdf>`_][`PPTX <figures/Geogg124-lecture1.pptx>`_]
-* Lecture 2:  (Fri 25 Jan 2-5) `Terrestrial Ecosystem Modelling [PDF <figures/Geogg124-lecture2.pdf>`_] [`PPTX <figures/Geogg124-lecture2.pptx>`_]
+* Lecture 1a: (Fri 18 Jan 2-5) `Introduction to the Course [PDF <figures/GEOG0133-lecture0.pdf>`_][`PPTX <figures/GEOG0133-lecture0.pptx>`_]
+* Lecture 1b: (Fri 18 Jan 2-5) `The Terrestrial Carbon Cycle [PDF <figures/GEOG0133-lecture1.pdf>`_][`PPTX <figures/GEOG0133-lecture1.pptx>`_]
+* Lecture 2:  (Fri 25 Jan 2-5) `Terrestrial Ecosystem Modelling [PDF <figures/GEOG0133-lecture2.pdf>`_] [`PPTX <figures/GEOG0133-lecture2.pptx>`_]
 * Lecture 3a: (Fri 1st Feb 2:30-4:30) `Prof. Wooster: Introduction to remote sensing of fires [PDF <figures/wooster_lecture1_fire_intro.pdf>`_]
 * Lecture 3b: (Fri 1st Feb 2:30-4:30) `Prof. Wooster: Remote sensing of fires (cont) [PDF <figures/wooster_lecture2_fire.pdf>`_]
 * Lecture 3c: (Fri 1st Feb 2:30-4:30) `Prof. Wooster: Remote sensing of fires (cont) [PDF <figures/Fires_and_climate.pdf>`_]
-* Lecture 5:  (Fri 15th Mar 2-5) `Data Assimilation [PDF <figures/Geogg124-lectureDA.pdf>`_][`PPTX <figures/Geogg124-lectureDA.pptx>`_]
+* Lecture 5:  (Fri 15th Mar 2-5) `Data Assimilation [PDF <figures/GEOG0133-lectureDA.pdf>`_][`PPTX <figures/GEOG0133-lectureDA.pptx>`_]
 
 Exercises
 ==========
@@ -97,7 +97,7 @@ Exercises
 
 Seminars
 ========
-* Lecture 4 (Fri 1st Mar 2-5) `Student presentations on measurement methods <http://www2.geog.ucl.ac.uk/~plewis/geogg124/remoteSensing.html>`_
+* Lecture 4 (Fri 1st Mar 2-5) `Student presentations on measurement methods <http://www2.geog.ucl.ac.uk/~plewis/GEOG0133/remoteSensing.html>`_
 
 Practicals
 ==========
