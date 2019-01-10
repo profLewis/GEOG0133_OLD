@@ -70,7 +70,7 @@ Contents
    Terrestrial Ecosystem Modelling<modelling>
    Modelling practical <modellingPractical>
    Measurement (Student-led Seminar) <remoteSensing>
-   Phenology practical <phenology>
+   Phenology practical [Phenology <phenology.html>]
    Data Assimilation <da>
    Data Assimilation Practical <daPractical>
    Exploring a model <daModel>
