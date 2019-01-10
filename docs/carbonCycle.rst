@@ -160,7 +160,7 @@ Atmospheric Carbon and Greenhouse Gases
 `Blasing (2011) "Recent Greenhouse Gas Concentrations" <http://cdiac.ornl.gov/pns/current_ghg.html>`_ provides a table of greenhouse gases and their recent and pre-industrial atmospheric concentrations. It also provides an indication of the 'Greenhouse Warming Potential (GWP)', atmospheric lifetime and radiative forcing of the various gases. GWP is a measure of the radiative effects of emissions of greenhouse gases relative to an equal mass of CO2 emissions (so the GWP for CO2 is 1). We see that methane have a significantly higher GWP (25) over a 100 year horizon than CO2 but a shorter residency in the atmosphere.
 
 
-.. figure:: http://www.esrl.noaa.gov/gmd/aggi/aggi_2011.fig2.png
+.. figure:: https://www.esrl.noaa.gov/gmd/aggi/aggi.fig2.png
     :align: center
     :target: http://www.esrl.noaa.gov/gmd/aggi/
     :width: 50%
@@ -299,9 +299,9 @@ To understand the role of carbon in the earth system, we must gain some understa
 The Carbon Cycle
 ----------------
 
-.. figure:: http://earthobservatory.nasa.gov/Features/CarbonCycle/images/carbon_cycle.jpg
+.. figure:: https://earthobservatory.nasa.gov/ContentFeature/CarbonCycle/images/carbon_cycle.jpg
     :align: center
-    :target: http://earthobservatory.nasa.gov/Features/CarbonCycle/
+    :target: https://earthobservatory.nasa.gov/Features/CarbonCycle/
     :width: 50%
 
 
@@ -346,9 +346,9 @@ The figures given by the IPCC in `AR4 <http://www.ipcc.ch/publications_and_data/
 
 A view of the carbon cycle with more detail, from the `IPCC AR4 <http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch7s7-3.html>`_ is:
 
-.. figure:: http://www.ipcc.ch/publications_and_data/ar4/wg1/en/fig/figure-7-3-l.png
+.. figure:: figures/W640.png’
     :align: center
-    :target: http://www.ipcc.ch/publications_and_data/ar4/wg1/en/figure-7-3.html
+    :target:  https://www.researchgate.net/publication/265041566_Module_1_Introduction_to_climate_change_in_the_context_of_sustainable_development_TEXTBOOK_T869_Climate_Change_from_science_to_lived_experience/figures?lo=1
     :width: 90%
 
 .. raw:: html
@@ -520,10 +520,9 @@ Similarly, `Zhang et al. (2009)  <http://www.google.com.mx/url?sa=t&rct=j&q=glob
 
 NPP varies over the year as the factors affecting the processes involed (essentially, light, temperature and water availability) vary over the growing seasdon.  Nutrient availability also affects NPP but this is likely to vary over longer time periods. NPP can very quite significantly from one year to the next and over decadal timescales depending on climatic factors.
 
-
-.. figure:: http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/17650031/f3_gough_ksm.jpg
+.. figure:: https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/17650031/f3_gough_ksm.jpg
     :align: center
-    :target: http://www.nature.com/scitable/knowledge/library/terrestrial-primary-production-fuel-for-life-17567411
+    :target: https://www.nature.com/scitable/knowledge/library/terrestrial-primary-production-fuel-for-life-17567411
 
 
 .. raw:: html
@@ -568,30 +567,6 @@ Globally then, the most productive biomes are tropical forests, savannah and gra
 ------------
 
 
-.. figure:: http://earthobservatory.nasa.gov/GlobalMaps/images/colorbars/modis_npp.png
-    :align: center
-    :width: 90%
-
-.. raw:: html
-
-    <center><i>
-    Global NPP for July 2006
-    </i></centre>
-
-
-------------
-
-
-.. figure:: http://eoimages.gsfc.nasa.gov/images/globalmaps/data/MOD13A2_M_NDVI/MOD13A2_M_NDVI_2006-07.JPEG
-    :align: center
-    :target: http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=MOD13A2_M_NDVI
-    :width: 90%
-
-
-
-------------
-
-.. figure:: http://earthobservatory.nasa.gov/GlobalMaps/images/colorbars/modis_ndvi.png
     :align: center
     :width: 90%
 
@@ -599,7 +574,7 @@ Globally then, the most productive biomes are tropical forests, savannah and gra
 .. raw:: html
 
     <center><i>
-    Global NDVI July 2006
+    Global NPP and NDVI 
     </i></centre>
 
 
