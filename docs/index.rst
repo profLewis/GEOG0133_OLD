@@ -91,13 +91,9 @@ Exercises
 *       `Exercise 1: A simple Earth system model <aside1.html>`_
 *       `Exercise 2: Per capita emissions <aside2.html>`_
 
-Seminars
-========
-* Lecture 4 (Fri 1st Mar 2-5) `Student presentations on measurement methods <http://www2.geog.ucl.ac.uk/~plewis/GEOG0133/remoteSensing.html>`_
-
 Practicals
 ==========
-* Practical 1: `data and instructions <figures/wooster_practical>`_]
+* Practical 1: `Fire data and instructions <figures/wooster_practical>`_]
 * Practical 2: `Modelling practical <modellingPractical.html>`_
 * Practical 3: `Phenology practical <https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/jgomezdans/d84f09e226c4a0f98a52/raw/PhenoPractical.ipynb?create=1>`_
 * Practical 4: `Data assimilation practical <daPractical.html>`_ 
