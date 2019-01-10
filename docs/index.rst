@@ -97,10 +97,10 @@ Seminars
 
 Practicals
 ==========
-* Practical 1: (Fri 8th Feb 2:30-5:00) `Prof. Wooster's fire detection practical: data and instructions [70 MB zip file of instructions and data <figures/wooster_practical.zip>`_]
-* Practical 2: (Fri 22nd Feb 2-5) `Modelling practical <modellingPractical.html>`_
-* Practical 3: (Fri 8th Mar 2-5) `Phenology practical <phenology.html>`_
-* Practical 4: (Fri 22nd Mar 2-5) `Data assimilation practical <daPractical.html>`_ 
+* Practical 1: `data and instructions <figures/wooster_practical>`_]
+* Practical 2: `Modelling practical <modellingPractical.html>`_
+* Practical 3: `Phenology practical <https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/jgomezdans/d84f09e226c4a0f98a52/raw/PhenoPractical.ipynb?create=1>`_
+* Practical 4: `Data assimilation practical <daPractical.html>`_ 
 
 
 Search
