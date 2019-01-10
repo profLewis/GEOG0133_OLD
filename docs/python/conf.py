@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# geogg124 documentation build configuration file, created by
+# GEOG0133 documentation build configuration file, created by
 # sphinx-quickstart on Tue Jan  3 09:26:28 2012.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'geogg124'
+project = u'GEOG0133'
 copyright = u'2012, Prof. P. Lewis'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -175,7 +175,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'geogg124doc'
+htmlhelp_basename = 'GEOG0133doc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -194,7 +194,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'geogg124.tex', u'geogg124 Documentation',
+  ('index', 'GEOG0133.tex', u'GEOG0133 Documentation',
    u'Prof. P. Lewis', 'manual'),
 ]
 
@@ -224,7 +224,7 @@ latex_logo = "ucl_logo.png"
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'geogg124', u'geogg124 Documentation',
+    ('index', 'GEOG0133', u'GEOG0133 Documentation',
      [u'Prof. P. Lewis'], 1)
 ]
 
@@ -238,8 +238,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'geogg124', u'geogg124 Documentation',
-   u'Prof. P. Lewis', 'geogg124', 'One line description of project.',
+  ('index', 'GEOG0133', u'GEOG0133 Documentation',
+   u'Prof. P. Lewis', 'GEOG0133', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -256,7 +256,7 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'geogg124'
+epub_title = u'GEOG0133'
 epub_author = u'Prof. P. Lewis'
 epub_publisher = u'Prof. P. Lewis'
 epub_copyright = u'2012, Prof. P. Lewis'
