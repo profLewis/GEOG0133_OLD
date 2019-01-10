@@ -3,6 +3,7 @@ Reading List for GEOG0133 TERRESTRIAL CARBON: MODELLING and MONITORING
 
 General
 -------
+* IPCC Fifth Assessment Report: Climate Change 20xxi1407: `Working Group I: The Physical Science Basis <https://www.ipcc.ch/report/ar5/wg1/>`_ and for a brief overview, the `IPCC synthesis <uhttps://www.ipcc.ch/report/ar5/syr/>`_.
 * IPCC `<http://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml>`_
 * IPCC Fourth Assessment Report: Climate Change 2007: `Working Group I: The Physical Science Basis <http://www.ipcc.ch/publications_and_data/ar4/wg1/en/contents.html>`_ and for a brief overview, the `IPCC FAQs <http://www.ipcc.ch/publications_and_data/ar4/wg1/en/faqs.html>`_.
 * Monteith, J.L. and Unsworth, M., (2007), `Principles of Environmental Physics <http://www.amazon.co.uk/Principles-Environmental-Physics-John-Monteith/dp/0125051034/ref=sr_1_1?ie=UTF8&qid=1325699791&sr=8-1>`_, Academic Press
@@ -32,6 +33,8 @@ Ecosystem Modelling
 
 Where first author is given in **bold** reading the text is strongly reccomended for this course.
 
+* **Scheiter, S.** , Langan, L. and Higgins, S. I. (2013), Next‐generation dynamic global vegetation models: learning from community ecology. New Phytol, 198: 957-969. doi:10.1111/nph.12210 (deficiencies of current DGVM approaches from ecology viewpoint)
+* **How do climate models work?** <https://www.carbonbrief.org/qa-how-do-climate-models-work>
 * Bonan, G.B, S. Levis, L. Kergoat, and K.W. Oleson, 2002: `Landscapes as patches of plant functional types: an integrating concept for climate and ecosystem models. Global Biogeochem. Cycles, VOL. 16, NO. 2, 10.1029/2000GB001360, 2002 <http://www.cgd.ucar.edu/tss/clm/pfts/pfts.pdf>`_
 * **Box., E.O.** 1996, Plant Functional Types and Climate at the Global Scale, Journal of Vegetation Science, Vol. 7, No. 3 (Jun., 1996), pp. 309-320
 * Bradley et al. 2011, Relationships between phenology, radiation and precipitation in the Amazon region, Global Change Biology Volume 17, Issue 6, pages 2245-2260, June 2011
@@ -54,3 +57,7 @@ Where first author is given in **bold** reading the text is strongly reccomended
 * **M. J. Best**, M. Pryor, D. B. Clark, G. G. Rooney, R .L. H. Essery, C. B. Menard, J. M. Edwards, M. A. Hendry, A. Porson, N. Gedney, L. M. Mercado, S. Sitch, E. Blyth, O. Boucher, P. M. Cox, C. S. B. Grimmond, and R. J. Harding (2011) The Joint UK Land Environment Simulator (JULES), model description Part 1: Energy and water fluxes, Geosci. Model Dev., 4, 677-699, 2011
 * **D. B. Clark** L. M. Mercado, S. Sitch, C. D. Jones, N. Gedney, M. J. Best, M. Pryor, G. G. Rooney, R. L. H. Essery, E. Blyth, O. Boucher, R. J. Harding, C. Huntingford, and P. M. Cox (2011) The Joint UK Land Environment Simulator (JULES), model description Part 2: Carbon fluxes and vegetation dynamics, Geosci. Model Dev., 4, 701-722, 2011
 
+Satellite Observations
+----------------------
+
+* **Balsamo, G.**; Agustì-Parareda, A.; Albergel, C.; Arduini, G.; Beljaars, A.; Bidlot, J.; Bousserez, N.; Boussetta, S.; Brown, A.; Buizza, R.; Buontempo, C.; Chevallier, F.; Choulga, M.; Cloke, H.; Cronin, M.F.; Dahoui, M.; De Rosnay, P.; Dirmeyer, P.A.; Drusch, M.; Dutra, E.; Ek, M.B.; Gentine, P.; Hewitt, H.; Keeley, S.P.E.; Kerr, Y.; Kumar, S.; Lupu, C.; Mahfouf, J.-F.; McNorton, J.; Mecklenburg, S.; Mogensen, K.; Muñoz-Sabater, J.; Orth, R.; Rabier, F.; Reichle, R.; Ruston, B.; Pappenberger, F.; Sandu, I.; Seneviratne, S.I.; Tietsche, S.; Trigo, I.F.; Uijlenhoet, R.; Wedi, N.; Woolway, R.I.; Zeng, X. Satellite and In Situ Observations for Advancing Global Earth Surface Modelling: A Review. Remote Sens. 2018, 10, 2038.

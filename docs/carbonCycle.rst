@@ -1196,7 +1196,7 @@ This course cannot cover all aspects of climate science and related biological, 
 
 For further reading, some references are provided. Students are encouraged to fill the gaps in their knowledge in other areas using:
 
-* IPCC Fourth Assessment Report: Climate Change 2007: `Working Group I: The Physical Science Basis <http://www.ipcc.ch/publications_and_data/ar4/wg1/en/contents.html>`_ and for a brief overview, the `IPCC FAQs <http://www.ipcc.ch/publications_and_data/ar4/wg1/en/faqs.html>`_.
+* IPCC Fifth Assessment Report: Climate Change 20xxi1407: `Working Group I: The Physical Science Basis <https://www.ipcc.ch/report/ar5/wg1/>`_ and for a brief overview, the `IPCC synthesis <uhttps://www.ipcc.ch/report/ar5/syr/>`_.
 * Monteith, J.L. and Unsworth, M., (2007), `Principles of Environmental Physics <http://www.amazon.co.uk/Principles-Environmental-Physics-John-Monteith/dp/0125051034/ref=sr_1_1?ie=UTF8&qid=1325699791&sr=8-1>`_, Academic Press
 * Allen, R.G et al., 1998, `Crop evapotranspiration - Guidelines for computing crop water requirements - FAO Irrigation and drainage paper 56 <http://www.fao.org/docrep/X0490E/X0490E00.htm>`_ for a good practical guide to Agrometeorology, and a wider range of agricultural (and societal) documents in the `FAO Corporate Document Repository <http://www.fao.org/documents/en/docrep.jsp>`_.
 * `AIP essay on Simple Models of Climate Change <http://www.aip.org/history/climate/simple.htm>`_
