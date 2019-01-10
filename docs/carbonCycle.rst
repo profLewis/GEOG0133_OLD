@@ -137,7 +137,7 @@ An important conclusion of IPCC AR4 is that the most likely value of (net positi
 
 The figure below from IPCC AR4 gives global mean radiative forcings (and 90% confidence intervals (CIs)) for some of the most significant GHGs and other components of the system. We see that the most significant anthropogenic positive RF term is CO2 followed by CH4, Tropospheric O3, Halocarbons, NO2, (natural) Solar irradiance variations, and black carbon effects on snow (lowering snow albedo). On the other hand, there are significant negative RF effects from aerosols (both directly in increasing the shortwave atmospheric albedo and indirectly through increasing cloud cover and cloud albedo) and surface albedo effects due to land use change (increasing albedo, e.g. through deforestation). The `large error bars on some of these components should be noted <http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch2s2-9-1.html>`_.
 
- .. figure:: https://www.researchgate.net/profile/Richard_Gates/publication/236886758/figure/fig3/AS:667636757168134@1536188415920/a-Global-mean-radiative-forcings-RF-and-their-90-confidence-intervals-in-2005-for_W640.jpg
+ .. figure:: figures/a-Global-mean-radiative-forcings-RF-and-their-90-confidence-intervals-in-2005-for_W640.jpg
     :align: center
     :width: 50%
 
