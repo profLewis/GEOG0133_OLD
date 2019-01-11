@@ -51,6 +51,12 @@ Starting points for reading:
 * Malhi Y, Wood D, Baker TR, Wright J, Phillips OL, Cochrane T, Meir P, Chave J, Almeida S, Arroyo L, Higuchi N, Killeen TJ, Laurance SG, Laurance WF, Lewis SL, Monteagudo A, Neill DA, Vargas PN, Pitman NCA, Quesada CA, Salomao R, Silva JNM, Lezama AT, Terborgh J, Martinez RV, Vinceti B. (2006) The regional variation of aboveground live biomass in old-growth Amazonian forests. Global Change Biology, 12: 1107-1138.
 * Baker, T. R., Phillips, O. L., Malhi, Y., Almeida, S., Arroyo, L., Di Fiore, A., Killeen, T., Laurance, S. G., Laurance, W. F., Lewis, S. L., Lloyd, J., Monteagudo, A., Neill, D., Patino, S., Pitman, N., Silva, N. & Martinez, R. V. (2004a) Variation in wood density determines spatial patterns in Amazonian forest biomass. Global Change Biology, 10, 545-562.
 * Kristiina A. Vogt, Daniel J. Vogt and Janine Bloomfield (1998) Analysis of some direct and indirect methods for estimating root biomass and production of forests at an ecosystem level, Plant and Soil, 1998, Volume 200, Number 1, Pages 71-89
+* Clark and Kellner (2012) Tropical forest biomass estimation and the fallacy of misplaced concreteness. J. Veg. Sci. 23, 1191 – 1196. (doi:10. 1111/j.1654-1103.2012.01471.x).
+* Chave et al. (2014) Improved allometric models to estimate the aboveground biomass of tropical trees. Glob. Change Biol. 20, 3177 – 3190. (doi:10.1111/ gcb.12629)
+* Calders et al. (2015) Non-destructive estimates of above-ground biomass using terrestrial laser scanning. Methods Ecol. Evol. 6, 198 – 208. (doi: 10.1111/2041-210X.12301)
+* Gonzalez de Tanago et al (2017) Estimation of above-ground biomass of large tropical trees with Terrestrial LiDAR. Methods Ecol. Evol.
+* Disney MI, Boni Vicari M, Burt A, Calders K, Lewis SL, Raumonen P, Wilkes P (2018) Weighing trees with lasers: advances, challenges and opportunities. Interface Focus 8(2): 20170048. https://doi.org/10.1098/rsfs.2017.0048
+
 
 Ground-based measurements of leaf area
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,7 +76,8 @@ Ground-based measurements of LAI (and related fractional cover) are also very im
 * Nathalie J. J. Bréda(2003) round-based measurements of leaf area index: a review of methods, instruments and current controversies, J. Exp. Bot. (2003) 54 (392): 2403-2417. doi: 10.1093/jxb/erg263
 * `VALERI <http://w3.avignon.inra.fr/valeri/fic_htm/documents/main.php>`_
 * C. Justice, A. Belward, J. Morisette, P. Lewis, J. Privette, F. Baret Developments in the validation of satellite products for the study of the land surface. International Journal of Remote Sensing 21(17) 3383-3390
-
+* Li et al. (2018) http://www.mdpi.com/2072-4292/10/1/148
+* Woodgate et al. (2015) An improved theoretical model of canopy gap probability for Leaf Area Index estimation in woody ecosystems, Forest Ecology and Management, 358, 303-320.
 
 Biomass density from remote sensing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,6 +93,12 @@ Another technology of value here is lidar measuremenmt, which aims to estimate t
 
 Starting points for reading:
 
+* Duncanson L, Rourke O, Dubayah R. 2015 Small sample sizes yield biased allometric equations in temperate forests. Nat. Sci. Rep. 5, 17153. (doi: 10.1038/srep17153
+* Houghton RA, Nassikas AA. 2017 Global and regional fluxes of carbon from land use and land cover change 1850 – 2015. Glob. Biogeochem. Cycles 31, 456 – 472. (doi:10.1002/2016GB005546)
+* Houghton RA, Byers B, Nassikas AA. 2015 A role for tropical forests in stabilizing atmospheric CO2. Nat. Clim. Change 5, 1022 – 1023. (doi:10.1038/ nclimate2869)Saatchi S et al. 2011 Benchmark map of forest carbon stocks in tropical regions across three continents. Proc. Natl Acad. Sci. USA 108, 9899 – 9904. (doi:10.1073/pnas.1019576108)
+* Baccini A et al. 2012 Estimated carbon dioxide emissions from tropical deforestation improved by carbon-density maps. Nat. Clim. Change 2, 182 – 185. (doi:10.1038/nclimate1354)
+* Mitchard ET, Saatchi SS, Baccini A, Asner GP, Goetz SJ, Harris NL, Brown S. 2013 Uncertainty in the spatial distribution of tropical forest biomass: a comparison of pan-tropical maps. Carbon Balance Manage. 8, 10. (doi:10.1186/1750-0680-8-10)
+* Mitchard ET et al. 2014 Markedly divergent estimates of Amazon forest carbon density from ground plots and satellite. Glob. Ecol. Biogeogr. 23, 935 – 946. (doi:10.1111/geb.12168)
 * John A. Gamon, Christopher B. Field, Michael L. Goulden, Kevin L. Griffin, Anne E. Hartley, Geeske Joel, Josep Penuelas and Riccardo Valentini (1995) Relationships Between NDVI, Canopy Structure, and Photosynthesis in Three Californian Vegetation Types, Ecological Applications, Vol. 5, No. 1, Feb., 1995  
 * Lefsky, M. A, D. J Harding, M. Keller, W. B Cohen, C. C Carabajal, F. D.B Espirito-Santo, M. O Hunter, and R. de Oliveira Jr. 2005. Estimates of forest canopy height and aboveground biomass using ICESat. Geophysical Research Letters 32, no. 22: L22S02.
 * Koch, B. 2010. Status and future of laser scanning, synthetic aperture radar and hyperspectral remote sensing data for forest biomass assessment. ISPRS Journal of Photogrammetry and Remote Sensing 65, no. 6 (November): 581-590. doi:10.1016/j.isprsjprs.2010.09.001.
@@ -112,6 +125,8 @@ Other methods rely on measuring concentrations of gases, rather than fluxes. Flu
 
 Instruments such as the LiCor Li-8100A or other chamber instruments can be used for soil flux measurements or measurements over very short vegetation.
 
+* Rayner, P. J. et al. Two decades of terrestrial carbon fluxes from a carbon cycle data assimilation system (CCDAS). Global Biogeochem. Cy. 19, GB2026 (2005).
+* Rayner, P. J. The current state of carbon-cycle data assimilation. Curr. Opin. Env. Sust. 2, 289–296 (2010).
 * LiCor `Why Use Eddy Covariance to Measure Flux? <http://www.licor.com/env/applications/eddy_covariance>`_
 * J. H. Prueger et al. (2005) Tower and Aircraft Eddy Covariance Measurements of Water Vapor, Energy, and Carbon Dioxide Fluxes during SMACEX, JOURNAL OF HYDROMETEOROLOGY, 6,954-960.
 * `CarboEurope <http://www.carboeurope.org/>`_ (also see AmeriFlux, AsiaFlux, KoFlux, OzFlux, ChinaFlux, FluxnetCanada)
@@ -123,6 +138,8 @@ Instruments such as the LiCor Li-8100A or other chamber instruments can be used 
 * LiCor `Li-81000A <http://www.licor.com/env/products/soil_flux/>`_
 * JANSSENS et al., 2000, Assessing forest soil CO2 efflux: an in situ comparison of four techniques, Tree Physiology 20, 23-32
 * Norby, R.J., and Zak, D.R. (2011) Ecological Lessons from Free-Air CO2 Enrichment (FACE) Experiments, Annual Review of Ecology, `Evolution, and Systematics, Vol. 42: 181-203 <http://www.annualreviews.org/doi/full/10.1146/annurev-ecolsys-102209-144647>`_
+
+
 Remote Sensing measurements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -155,6 +172,17 @@ Starting points for reading
 * Garrigues, S., R. Lacaze, F. Baret, J.T. Morisette, M. Weiss, J. Nickeson, R. Fernandes, S. Plummer, N.V. Shabanov, R. Myneni, W. Yang, Validation and Intercomparison of Global Leaf Area Index Products Derived From Remote Sensing Data, Journal of Geophysical Research, 113, G02028, doi:10.1029/2007JG000635, 2008.
 * Weiss, M., F. Baret, S. Garrigues, and R. Lacaze, LAI and FAPAR CYCLOPES global products derived from Vegetation. Part 2 : validation and comparison with MODIS C4 products, Remote Sensing of Environment, 110:317-331, 2007.
 * J.L. Widlowski, B. Pinty, M. Clerici, Y. Dai, M. De Kauwe, K. de Ridder, A. Kallel, H. Kobayashi, T. Lavergne, W. Ni-Meister, A. Olchev, T. Quaife, S. Wang, W. Yang, Y. Yang, and H. Yuan (2011), RAMI4PILPS: An intercomparison of formulations for the partitioning of solar radiation in land surface models, Journal of Geophysical Research, 116, G02019, 25, DOI: 10.1029/2010JG001511. 
+* Disney et al. (2016) A new global fAPAR and LAI dataset derived from optimal albedo estimates: comparison with MODIS products, Remote Sensing, 8(4), 275; doi:10.3390/rs8040275.
+* Disney (2016) Remote sensing of vegetation: potentials, limitations, developments and applications. In: K. Hikosaka, K., Niinemets, U. and Anten, N. P. R. (eds) Canopy Photosynthesis: From Basics to Applications. Springer Series: Advances In Photosynthesis and Respiration, Springer, Berlin, pp289-331. ISBN: 978-94-017-7290-7. DOI: 10.1007/978-94-017-7291-4. See PDF: 
+* MacBean, N. et al. Using satellite data to improve the leaf phenology of a global terrestrial biosphere model. Biogeosciences 12, 7185–7208 (2015). 
+* Joiner, J. et al. The seasonal cycle of satellite chlorophyll fluorescence observations and its relationship to vegetation phenology and ecosystem atmosphere carbon exchange. Remote Sens. Environ. 152, 375–391 (2014).
+* Macbean et al. (2018) Strong constraint on modelled global carbon uptake using solar-induced chlorophyll fluorescence data, https://www.nature.com/articles/s41598-018-20024-w
+* Sun, Y. et al. OCO-2 advances photosynthesis observation from space via solar-induced chlorophyll fluorescence. Science 358, doi: 10.1126/science.aam5747 (2017).
+* Frankenberg, C. et al. New global observations of the terrestrial carbon cycle from GOSAT: Patterns of plant fluorescence with gross primary productivity. Geophys. Res. Lett. 38, L17706 (2011).
+* Guanter, L. et al. Retrieval and global assessment of terrestrial chlorophyll fluorescence from GOSAT space measurements. Remote Sens. Environ. 121, 236–251 (2012). 
+* Liu et al. (2011) Global long-term passive microwave satellite-based retrievals of vegetation optical depth, Geophysical Research Letters, 38 (2011)
+* Liu et al., 2015 Recent reversal in loss of global terrestrial biomass, Nature Climate Change, 5 (2015), pp. 470–474
+
 
 Conclusions
 ------------
