@@ -49,7 +49,7 @@ JGD: Dr Jose Gomez-Dans
 
 |  Lecture |  Date | Lecturer  | Name  | 
 |---|---|---|---|
-|L1| Fri 11/1| MD |[Course intro](https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290310) and [Terrestrial  C Cycle](https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290311)]|
+|L1| Fri 11/1| MD |[Course intro](docs/ppt/GEOG0113-lecture0.pptx) and [Terrestrial  C Cycle](docs/ppt/GEOG0113-lecture1.pptx)]|
 |P0| Fri 18/1| JGD| [Simple ESM and per-capita emissions](https://github.com/jgomezdans/geog0133-exercises)|
 |L2| Fri 25/1| MD |[Terrestrial Ecosystem Modelling](https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290315)|
 |P1| Fri 1/2| JGD |[Modelling practical](https://github.com/jgomezdans/photosynthesis_practical/)|
