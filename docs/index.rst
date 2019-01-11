@@ -39,24 +39,31 @@ Timetable Term 2 2019
 
 All lectures (L) and practicals (P) are in Pearson Computing lab 110a, 2-4:30 pm unless otherwise stated; practicals (P) are in Pearson 110A (Unix lab) 2-4:30 pm unless otherwise stated. 
 
-MD: Mat Disney
-JGD: Jose Gomez-Dans
-PL: Philip Lewis
+Staff:
 
+PL: Professor Philip Lewis
 
-L1: Fri 11/1: MD Course intro and Terrestrial  C Cycle
-P0: Fri 18/1: JGD Simple ESM and per-capita emissions
-L2: Fri 25/1: MD Terrestrial Ecosystem Modelling
-P1: Fri 1/2 JGD Modelling practical
-L3: Fri 8/2 TBD Fire in the earth system 
-Fri 15/2 READING WEEK 
-P2: Fri 22/2 TBD Fire practical 
-L4: Fri 1/3 PL Measurement seminar - student-led
-P3: Fri 8/3 JGD Phenology practical
-L5: Fri 15/3 MD Data Assimilation (DA)
-P4: Fri 22/3 JGD DA practical
+MD: Professor Mathias Disney
+
+JGD: Dr Jose Gomez-Dans
+
+|  Lecture |  Date | Lecturer  | Name  | 
+|---|---|---|---|
+|L1| Fri 11/1| MD |[Course intro](https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290310) and [Terrestrial  C Cycle](https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290311)]|
+|P0| Fri 18/1| JGD| [Simple ESM and per-capita emissions](https://github.com/jgomezdans/geog0133-exercises)|
+|L2| Fri 25/1| MD |[Terrestrial Ecosystem Modelling](https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290315)|
+|P1| Fri 1/2| JGD |[Modelling practical](https://github.com/jgomezdans/photosynthesis_practical/)|
+|L3| Fri 8/2| TBD |[Fire in the earth system Pt 1](docs/figures/wooster_lecture1_fire_intro.pdf) [Pt2](docs/figures/wooster_lecture2_fire.pdf) [Pt 3](docs/figures/Fires_and_climate.pdf)| 
+||Fri 15/2|| READING WEEK |
+|P2| Fri 22/2| TBD |[Fire practical](docs/figures/wooster_practical/) |
+|L4| Fri 1/3 |PL |[Measurement seminar - student-led](https://moodle-1819.ucl.ac.uk/mod/page/view.php?id=290319)|
+|P3| Fri 8/3 |JGD |[Phenology practical]()|
+|L5| Fri 15/3 |MD |[Data Assimilation (DA)](https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290327)|
+|P4| Fri 22/3 |JGD |[DA practical](https://github.com/jgomezdans/dalec_pf)|
 
 Lecture 4 is a student-led exercise, where you will be expected to research topics in measurement related to terrestrial Carbon, and give a short seminar.
+
+
 
 Contents
 ========
@@ -74,29 +81,6 @@ Contents
    Data Assimilation <da>
    Data Assimilation Practical <daPractical>
    Exploring a model <daModel>
-
-Lectures
-========
-
-* Lecture 1a: (Fri 18 Jan 2-5) `Introduction to the Course [PDF <figures/GEOG0133-lecture0.pdf>`_][`PPTX <figures/GEOG0133-lecture0.pptx>`_]
-* Lecture 1b: (Fri 18 Jan 2-5) `The Terrestrial Carbon Cycle [PDF <figures/GEOG0133-lecture1.pdf>`_][`PPTX <figures/GEOG0133-lecture1.pptx>`_]
-* Lecture 2:  (Fri 25 Jan 2-5) `Terrestrial Ecosystem Modelling [PDF <figures/GEOG0133-lecture2.pdf>`_] [`PPTX <figures/GEOG0133-lecture2.pptx>`_]
-* Lecture 3a: (Fri 1st Feb 2:30-4:30) `Introduction to remote sensing of fires [PDF <figures/wooster_lecture1_fire_intro.pdf>`_]
-* Lecture 3b: (Fri 1st Feb 2:30-4:30) `Remote sensing of fires (cont) [PDF <figures/wooster_lecture2_fire.pdf>`_]
-* Lecture 3c: (Fri 1st Feb 2:30-4:30) `Remote sensing of fires (cont) [PDF <figures/Fires_and_climate.pdf>`_]
-* Lecture 5:  (Fri 15th Mar 2-5) `Data Assimilation [PDF <figures/GEOG0133-lectureDA.pdf>`_][`PPTX <figures/GEOG0133-lectureDA.pptx>`_]
-
-Exercises
-==========
-*       `Exercise 1: A simple Earth system model <aside1.html>`_
-*       `Exercise 2: Per capita emissions <aside2.html>`_
-
-Practicals
-==========
-* Practical 1: `Fire data and instructions <figures/wooster_practical>`_]
-* Practical 2: `Modelling practical <modellingPractical.html>`_
-* Practical 3: `Phenology practical <https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/jgomezdans/d84f09e226c4a0f98a52/raw/PhenoPractical.ipynb?create=1>`_
-* Practical 4: `Data assimilation practical <daPractical.html>`_ 
 
 
 Search
