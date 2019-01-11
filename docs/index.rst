@@ -80,7 +80,7 @@ Lecture 4 is a student-led exercise, where you will be expected to research topi
 
 .. _Fire practical: https://github.com/profLewis/GEOG0133/tree/master/docs/figures/wooster_practical
 
-.. _Measurement seminar - student-led: https://moodle-1819.ucl.ac.uk/mod/page/view.php?id=290319
+.. _Measurement seminar - student-led: remoteSensing.html
 
 .. _Phenology practical: https://github.com/profLewis/GEOG0133/tree/master/docs/figures
 
