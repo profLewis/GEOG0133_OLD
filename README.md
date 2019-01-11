@@ -12,23 +12,25 @@ JGD: Dr Jose Gomez-Dans
 
 Lectures (L) are in Pearson G07, 2-5 pm unless otherwise stated; practicals (P) are in Pearson 110A (Unix lab) 2-5 pm unless otherwise stated:
 
-L1: Fri 11/1: MD Course intro and Terrestrial  C Cycle
-P0: Fri 18/1: JGD Simple ESM and per-capita emissions
-L2: Fri 25/1: MD Terrestrial Ecosystem Modelling
-P1: Fri 1/2 JGD Modelling practical
-L3: Fri 8/2 TBD Fire in the earth system 
-Fri 15/2 READING WEEK 
-P2: Fri 22/2 TBD Fire practical 
-L4: Fri 1/3 PL Measurement seminar - student-led
-P3: Fri 8/3 JGD Phenology practical
-L5: Fri 15/3 MD Data Assimilation (DA)
-P4: Fri 22/3 JGD DA practical
+|  Lecture |  Date | Lecturer  | Name  | 
+|---|---|---|---|
+|L1| Fri 11/1| MD |Course intro and Terrestrial  C Cycle|
+|P0| Fri 18/1| JGD| Simple ESM and per-capita emissions|
+|L2| Fri 25/1| MD |Terrestrial Ecosystem Modelling|
+|P1| Fri 1/2| JGD |Modelling practical|
+|L3| Fri 8/2| TBD |Fire in the earth system| 
+||Fri 15/2|| READING WEEK |
+|P2| Fri 22/2| TBD |Fire practical |
+|L4| Fri 1/3 |PL |Measurement seminar - student-led|
+|P3| Fri 8/3 |JGD |Phenology practical|
+|L5| Fri 15/3 |MD |Data Assimilation (DA)|
+|P4| Fri 22/3 |JGD |DA practical|
 
 Lecture 4 is a student-led exercise, where you will be expected to research topics in measurement related to terrestrial Carbon, and give a short seminar.
 
 ## Lectures
 
-Lecture http1a: (Fri 18 Jan 2-5) Introduction to the Course [PDF](docs/pdf/Geogg124-lecture0.pdf)(PPT)(docs/ppt/Geogg124-lecture0.pptx)
+Lecture 1a: (Fri 18 Jan 2-5) Introduction to the Course [PDF](docs/pdf/Geogg124-lecture0.pdf)(PPT)(docs/ppt/Geogg124-lecture0.pptx)
 Lecture 1b: (Fri 18 Jan 2-5) The Terrestrial Carbon Cycle (PDF)[http://www2.geog.ucl.ac.uk/~plewis/geogg124/figures/Geogg124-lecture1.pdf](PPTX)[http://www2.geog.ucl.ac.uk/~plewis/geogg124/figures/Geogg124-lecture1.pptx]
 Lecture 2: (Fri 25 Jan 2-5) Terrestrial Ecosystem Modelling (PDF)[http://www2.geog.ucl.ac.uk/~plewis/geogg124/figures/Geogg124-lecture2.pdf] (PPTX)[http://www2.geog.ucl.ac.uk/~plewis/geogg124/figures/Geogg124-lecture2.pptx]
 Lecture 3a: (Fri 1st Feb 2:30-4:30) Prof. Wooster: Introduction to remote sensing of fires (PDF)[http://www2.geog.ucl.ac.uk/~plewis/geogg124/figures/wooster_lecture1_fire_intro.pdf]
