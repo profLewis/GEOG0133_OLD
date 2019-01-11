@@ -14,7 +14,7 @@ Lectures (L) are in Pearson G07, 2-5 pm unless otherwise stated; practicals (P) 
 
 |  Lecture |  Date | Lecturer  | Name  | 
 |---|---|---|---|
-|L1| Fri 11/1| MD |Course intro and Terrestrial  C Cycle|
+|L1| Fri 11/1| MD |[Course intro and Terrestrial  C Cycle](docs/ppt/Geogg124-lecture0.pptx)|
 |P0| Fri 18/1| JGD| Simple ESM and per-capita emissions|
 |L2| Fri 25/1| MD |Terrestrial Ecosystem Modelling|
 |P1| Fri 1/2| JGD |Modelling practical|
