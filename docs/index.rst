@@ -3,6 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. figure:: https://github.com/profLewis/Geog2021_Coursework/blob/master/images/ucl_logo.png?raw=true
+   :alt: UCL
+
 Welcome to GEOG0133 Terrestrial Carbon: modelling and monitoring 
 ==================================================================
 
