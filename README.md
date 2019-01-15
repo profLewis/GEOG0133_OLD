@@ -8,6 +8,8 @@ MD: Professor Mathias Disney
 
 JGD: Dr Jose Gomez-Dans
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/GEOG0133.git/master)
+
 ## Timetable Term 2 2019
 
 Lectures (L) are in Pearson G07, 2-5 pm unless otherwise stated; practicals (P) are in Pearson 110A (Unix lab) 2-5 pm unless otherwise stated:
