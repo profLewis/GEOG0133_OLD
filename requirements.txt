@@ -4,3 +4,5 @@ ipython
 IPython
 numpydoC
 astropy
+xlrd
+
