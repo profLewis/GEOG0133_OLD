@@ -4,4 +4,3 @@ ipython
 IPython
 numpydoC
 astropy
-pyemphem
