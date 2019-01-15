@@ -3,17 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to GEOGG124 Terrestrial Carbon: modelling and monitoring 
+Welcome to GEOG0133 Terrestrial Carbon: modelling and monitoring 
 ==================================================================
 
 Course Convenor 
 ----------------
 
-Prof. Philip Lewis
+`Prof. P. Lewis`_
 
-Prof. Mathias Disney
+`Prof. M. Disney`_
 
-Dr. Jose Gomez-Dans
+`Dr. Jose Gomez-Dans`_
+
+.. _Prof. P. Lewis: http://www2.geog.ucl.ac.uk/~plewis
+.. _Prof. M. Disney: http://www2.geog.ucl.ac.uk/~mdisney
+.. _Dr. Jose Gomez-Dans: https://www.geog.ucl.ac.uk/people/research-staff/jose-gomez-dans
+
 
 Course Moodle page
 -------------------
@@ -101,7 +106,7 @@ Contents
 
 .. toctree::
    :numbered:
-   :maxdepth: 3
+   :maxdepth: 2
 
    Introduction to the Course <intro>
    The Terrestrial Carbon Cycle <carbonCycle>
