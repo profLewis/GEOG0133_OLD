@@ -3,4 +3,5 @@ matplotlib
 ipython
 IPython
 numpydoC
+astropy
 pyemphem
