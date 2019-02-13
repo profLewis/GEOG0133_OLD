@@ -113,13 +113,13 @@ Contents
 
    Introduction to the Course <intro>
    The Terrestrial Carbon Cycle <carbonCycle>
+   Simple models <simples>
    Terrestrial Ecosystem Modelling<modelling>
-   Modelling practical <modellingPractical>
+   Photosynthesis practical <modellingPractical>
+   Fire practical <firePractical>
    Measurement (Student-led Seminar) <remoteSensing>
-   Phenology practical <phenology>
+   Phenology practical <phenologyPractical>
    Data Assimilation <da>
-   Data Assimilation Practical <daPractical>
-   Exploring a model <daModel>
 
 Search
 ==================
