@@ -20,7 +20,7 @@ There is no practical associated with this lecture, as it is supposed that stude
 Terrestrial Climate and Climate Change
 --------------------------------------
 
-*"(C)limate change is a defining issue of our generation. Our responses to the challenges of climate change - accurate prediction, equitable adaptation, and efficient mitigation - will influence the quality of life for ... the world, for generations to come."* (`NASA, 2010 <http://science.nasa.gov/media/medialibrary/2010/07/01/Climate_Architecture_Final.pdf>`_).
+*"(C)limate change is a defining issue of our generation. Our responses to the challenges of climate change - accurate prediction, equitable adaptation, and efficient mitigation - will influence the quality of life for ... the world, for generations to come."* (`NASA, 2010 <figures/Climate_Architecture_Final.pdf>`_).
 
 From the IPCC AR4 (synthesis report) we can state that there is `general agreement among scientists <http://www.ipcc.ch/publications_and_data/publications_ipcc_fourth_assessment_report_synthesis_report.htm>`_ with regard to the following:
 
