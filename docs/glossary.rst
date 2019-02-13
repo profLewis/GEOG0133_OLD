@@ -4,7 +4,7 @@ Glossary
 Sources:
 * Land Use, Land-Use Change, and Forestry, IPCC, 2000 - Robert T. Watson, Ian R. Noble, Bert Bolin, N. H. Ravindranath, David J. Verardo and David J. Dokken (Eds.) Cambridge University Press, UK. pp 375 
 
-You might also try the more extensive [EPA Glossary of Climate Change Terms]<http://www.epa.gov/climatechange/glossary.html>.
+You might also try the more extensive EPA Glossary of Climate Change Terms: http://www.epa.gov/climatechange/glossary.html.
 
 Some Terms
 ----------
