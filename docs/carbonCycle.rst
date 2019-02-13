@@ -579,69 +579,11 @@ Globally then, the most productive biomes are tropical forests, savannah and gra
 ------------
 
 
-    :align: center
-    :width: 90%
-
-
-.. raw:: html
-
-    <center><i>
-    Global NPP and NDVI 
-    </i></centre>
-
-
-
-------------
-
-
 
 .. figure:: http://eoimages.gsfc.nasa.gov/images/globalmaps/data/CERES_NETFLUX_M/CERES_NETFLUX_M_2006-07.JPEG
     :align: center
     :target: http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=CERES_NETFLUX_M
     :width: 90%
-
-
-
-------------
-
-
-.. figure:: http://earthobservatory.nasa.gov/GlobalMaps/images/colorbars/ceres_net.gif
-    :align: center
-    :width: 90%
-
-
-
-.. raw:: html
-
-    <center><i>
-    Global Net Radiation July 2006
-    </i></centre>
-
-
-
-------------
-
-
-
-.. figure:: http://eoimages.gsfc.nasa.gov/images/globalmaps/data/MOD11C1_M_LSTDA/MOD11C1_M_LSTDA_2006-07.JPEG
-    :align: center
-    :target: http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=MOD11C1_M_LSTDA
-    :width: 90%
-
-------------
-
-
-
-.. figure:: http://earthobservatory.nasa.gov/GlobalMaps/images/colorbars/modis_lst_gm.gif
-    :align: center
-    :width: 90%
-
-
-.. raw:: html
-
-    <center><i>
-    Global Land surface temperature July 2006
-    </i></centre>
 
 ------------
 
@@ -655,20 +597,6 @@ Globally then, the most productive biomes are tropical forests, savannah and gra
 ------------
 
 
-.. figure:: http://earthobservatory.nasa.gov/GlobalMaps/images/colorbars/trmm_rainfall_gm.gif
-    :align: center
-    :width: 90%
-
-
-.. raw:: html
-
-    <center><i>
-    Total rainfall July 2006
-    </i></centre>
-
-
-------------
-
 
 The figures above show global NPP distribution and related climatic and land surface properties for Northern hemisphere summer. The dataset 'NDVI' broadly shows the abundance of vegetation, which relates to the capacity of vegetation to photosynthesise. The primary driver of GPP (so NPP in broad terms) is the amount of vegetation and the amount of downwelling solar radiation. Although we do not have an image of the latter here, it is broadly inline with the net radiation shown. As a rough approximation then, we can see that the product of the first two datasets after NPP would give  the spatial patterns of NPP. There are of course many more subtle controls on NPP that we will consider later, but clearly these would include temperature range and water availability.
 
@@ -681,43 +609,6 @@ In Northern hemisphere summer then, NPP is most stongly spatially weighted  to t
 ------------
 
 
-
-.. figure:: http://earthobservatory.nasa.gov/GlobalMaps/images/colorbars/modis_npp.png
-    :align: center
-
-.. raw:: html
-
-    <center><i>
-    Global NPP for December 2006
-    </i></centre>
-
-
-------------
-
-
-
-.. figure:: http://eoimages.gsfc.nasa.gov/images/globalmaps/data/MOD13A2_M_NDVI/MOD13A2_M_NDVI_2006-12.JPEG
-    :align: center
-    :target: http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=MOD13A2_M_NDVI
-
-
-------------
-
-
-
-.. figure:: http://earthobservatory.nasa.gov/GlobalMaps/images/colorbars/modis_ndvi.png
-    :align: center
-
-.. raw:: html
-
-    <center><i>
-    Global NDVI December 2006
-    </i></centre>
-
-------------
-
-
-
 .. figure:: http://eoimages.gsfc.nasa.gov/images/globalmaps/data/CERES_NETFLUX_M/CERES_NETFLUX_M_2006-12.JPEG
     :align: center
     :target: http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=CERES_NETFLUX_M
@@ -726,61 +617,12 @@ In Northern hemisphere summer then, NPP is most stongly spatially weighted  to t
 ------------
 
 
-.. figure:: http://earthobservatory.nasa.gov/GlobalMaps/images/colorbars/ceres_net.gif
-    :align: center
-
-
-.. raw:: html
-
-    <center><i>
-    Global Net Radiation December 2006
-    </i></centre>
-
-
-------------
-
-
-.. figure:: http://eoimages.gsfc.nasa.gov/images/globalmaps/data/MOD11C1_M_LSTDA/MOD11C1_M_LSTDA_2006-12.JPEG
-    :align: center
-    :target: http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=MOD11C1_M_LSTDA
-
-
-------------
-
-.. figure:: http://earthobservatory.nasa.gov/GlobalMaps/images/colorbars/modis_lst_gm.gif
-    :align: center
-
-.. raw:: html
-
-    <center><i>
-    Global Land surface temperature December 2006
-    </i></centre>
-
-------------
-
-
-
 .. figure:: http://eoimages.gsfc.nasa.gov/images/globalmaps/data/TRMM_3B43M/TRMM_3B43M_2006-12.JPEG
     :align: center
     :target: http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=TRMM_3B43M
 
 
 ------------
-
-
-.. figure:: http://earthobservatory.nasa.gov/GlobalMaps/images/colorbars/trmm_rainfall_gm.gif
-    :align: center
-
-.. raw:: html
-
-    <center><i>
-    Total rainfall December 2006
-    </i></centre>
-
-
-
-------------
-
 
 In Northern hemisphere winter, the distribution of NPP shifts to the Southern hemisphere, for the same reasons as indicated above. 
 
@@ -818,31 +660,6 @@ Net Ecosystem Productivity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The NEP then is NPP minus other losses to the atmosphere. These will generally include respiration by heterotrophs (organisms --  fungi, animals and bacteria in the soil), but there may be other losses to the ecosystem such as through harvesting or fire.  
-
-.. figure:: http://www.globalfiredata.org/pics/GFED3_carbon_emissions.jpg
-    :align: center
-    :target: http://www.globalfiredata.org/pics/GFED3_carbon_emissions.jpg
-
-.. raw:: html
-
-    <center><i>
-    "Annual carbon emissions (as g C m-2 year-1), averaged over 1997-2009. These emissions estimates are build combining burned area data from above with a biogeochemical model (CASA-GFED) that estimates fuel loads and combustion completeness for each monthly time step. These fuel loads are based on satellite derived information on vegetation characteristics and productivity to estimate carbon input, and carbon outputs through heterotrophic respiration, herbivory, and fires."</i>
-    Source: <a href="http://www.globalfiredata.org/">globalfiredata.org</a>
-    </center>
-
-
-------------
-
-.. An interesting `NASA study <http://www.gsfc.nasa.gov/topstory/2004/0624hanpp.html>`_ has looked at human appropriation of land-based net primary production. 
-    .. figure:: http://eoimages.gsfc.nasa.gov/images/imagerecords/4000/4600/HANPP_1982-98.jpg
-    :align: center
-    :target: http://eoimages.gsfc.nasa.gov/images/imagerecords/4000/4600/HANPP_1982-98.jpg
-     .. raw:: html
-    <center>
-    Source: <a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=4600">NASA earthobservatory</a>
-    The figure above gives some idea of the disparities between the demand for NPP and where it occurs.     The study estimated that around 20% of annual NPP is required by humans.
-    The average accumulation of carbon over large areas and/or long time periods is called `net biome productivity <http://www.ipcc.ch/ipccreports/tar/wg2/204.htm>`_ (NBP).
-
 
 Anthropogenic and wildfire carbon emissions (as well as ocean and soil fluxes) as well as atmospheric circulation also significantly affect the global distribution of CO2, so the global patterns of CO2 are not as 'simple' as just the NPP fluxes. 
 
@@ -918,20 +735,6 @@ he leaf stomata and controls transpiration rates and CO2 diffusion rates (along 
 .. raw:: html
 
     <center>This Source: <a href="http://www.pcsd.k12.ny.us/bwoods/Regents%20Biology/Chapter%2019%20Plant%20Function/Chapter%2019%20Plant%20Structure%20and%20FunctionHome.htm"> pcsd.k12.ny.us </a>. Original source unknown.
-
-
---------
-
-.. figure:: http://ga.water.usgs.gov/edu/graphics/wctranspirationwatertable.gif
-    :align: center
-    :target: http://ga.water.usgs.gov/edu/watercycletranspiration.html
-
-.. raw:: html
-
-
-    <center><i>
-    "In many places, the top layer of the soil where plant roots are located is above the water table and thus is often wet to some extent, but is not totally saturated, as is soil below the water table. The soil above the water table gets wet when it rains as water infiltrates into it from the surface, But, it will dry out without additional precipitation. Since the water table is usually below the depth of the plant roots, the plants are dependent on water supplied by precipitation. As this diagram shows, in places where the water table is near the land surface, such as next to lakes and oceans, plant roots can penetrate into the saturated zone below the water table, allowing the plants to transpire water directly from the groundwater system. Here, transpiration of ground water commonly results in a drawdown of the water table much like the effect of a pumped well (cone of depression)." </i> Source: <a href="http://ga.water.usgs.gov/edu/watercycletranspiration.html">USGS</a>
-    </center>
 
 ------------
 
