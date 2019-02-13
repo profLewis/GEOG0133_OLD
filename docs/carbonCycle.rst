@@ -22,15 +22,27 @@ Terrestrial Climate and Climate Change
 
 *"(C)limate change is a defining issue of our generation. Our responses to the challenges of climate change - accurate prediction, equitable adaptation, and efficient mitigation - will influence the quality of life for ... the world, for generations to come."* (`NASA, 2010 <figures/Climate_Architecture_Final.pdf>`_).
 
-From the IPCC AR4 (synthesis report) we can state that there is `general agreement among scientists <http://www.ipcc.ch/publications_and_data/publications_ipcc_fourth_assessment_report_synthesis_report.htm>`_ with regard to the following:
+From the IPCC AR5 (synthesis report) we can state:
 
-**Observed changes in climate and their effects** 
+**Observed changes iand their causes** 
 
-* Warming of the climate system is unequivocal, as is now evident from observations of increases in global average air and ocean temperatures, widespread melting of snow and ice and rising global average sea level
-* Observational evidence from all continents and most oceans shows that many natural systems are being affected by regional climate changes, particularly temperature increases.
-* There is medium confidence that other effects of regional climate change on natural and human environments are emerging, although many are difficult to discern due to adaptation and non-climatic drivers
+* Human influence on the climate system is clear, and recent anthropogenic emissions of greenhouse gases are the highest in history. Recent climate changes have had widespread impacts on human and natural systems.
 
-**Causes of change** 
+**Future Climate Changes, Risks and Impacts** 
+
+* Continued emission of greenhouse gases will cause further warming and long-lasting changes in all components of the climate system, increasing the likelihood of severe, pervasive and irreversible impacts for people and ecosystems. Limiting climate change would require substantial and sustained reductions in greenhouse gas emissions which, together with adaptation, can limit climate change risks.
+
+**Future Pathways for Adaptation, Mitigation and Sustainable Dewvelopment**
+
+* Adaptation and mitigation are complementary strategies for reducing and managing the risks of climate change. Substantial emissions reductions over the next few decades can reduce climate risks in the 21st century and beyond, increase prospects for effective adaptation, reduce the costs and challenges of mitigation in the longer term, and contribute to climate-resilient pathways for sustainable development.
+
+**Adaptation and Mitigation**
+
+* Many adaptation and mitigation options can help address climate change, but no single option is sufficient by itself. Effective implementation depends on policies and cooperation at all scales, and can be enhanced through integrated responses that link adaptation and mitigation with other societal objectives.
+
+
+From the IPCC AR4 (synthesis report) we can state that there is `general agreement among scientists <https://www.ipcc.ch/report/ar4/syr>`_ with regard to the following:
+
 
 * Global GHG emissions due to human activities have grown since pre-industrial times, with an increase of 70% between 1970 and 2004. 
 * Global atmospheric concentrations of CO2, methane (CH4) and nitrous oxide (N2O) have increased markedly as a result of human activities since 1750 and now far exceed pre-industrial values determined from ice cores spanning many thousands of years.
