@@ -6,6 +6,8 @@ Sources:
 
 You might also try the more extensive EPA Glossary of Climate Change Terms: https://19january2017snapshot.epa.gov/climatechange/glossary-climate-change-terms.html
 
+'https://19january2017snapshot.epa.gov/climatechange/glossary-climate-change-terms_.html'
+
 Some Terms
 ----------
 
