@@ -74,11 +74,11 @@ Lecture 4 is a student-led exercise, where you will be expected to research topi
 
 .. _Terrestrial C Cycle: https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290311
 
-.. _Simple ESM and per-capita emissions: https://github.com/jgomezdans/geog0133-exercises
+.. _Simple ESM and per-capita emissions: https://github.com/jgomezdans/geog0133-practicals
 
 .. _Terrestrial Ecosystem Modelling: https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290315
 
-.. _Modelling practical: https://github.com/jgomezdans/photosynthesis_practical
+.. _Modelling practical: https://github.com/jgomezdans/geog0133-practicals
 
 .. _Fire in the earth system Pt 1: docs/figures/wooster_lecture1_fire_intro.pdf
 
@@ -86,11 +86,11 @@ Lecture 4 is a student-led exercise, where you will be expected to research topi
 
 .. _Pt 3: https://github.com/profLewis/GEOG0133/tree/master/docs/figures/Fires_and_climate.pdf
 
-.. _Fire practical: https://github.com/profLewis/GEOG0133/tree/master/docs/figures/wooster_practical
+.. _Fire practical: https://github.com/profLewis/Wooster_fire_practical
 
 .. _Measurement seminar - student-led: remoteSensing.html
 
-.. _Phenology practical: https://github.com/profLewis/GEOG0133/tree/master/docs/figures
+.. _Phenology practical: https://github.com/jgomezdans/geog0133-practicals
 
 .. _Data Assimilation (DA): https://moodle-1819.ucl.ac.uk/mod/resource/view.php?id=290327
 
@@ -113,13 +113,13 @@ Contents
 
    Introduction to the Course <intro>
    The Terrestrial Carbon Cycle <carbonCycle>
+   Simple models <simples>
    Terrestrial Ecosystem Modelling<modelling>
-   Modelling practical <modellingPractical>
+   Photosynthesis practical <modellingPractical>
+   Fire practical <firePractical>
    Measurement (Student-led Seminar) <remoteSensing>
-   Phenology practical <phenology>
+   Phenology practical <phenologyPractical>
    Data Assimilation <da>
-   Data Assimilation Practical <daPractical>
-   Exploring a model <daModel>
 
 Search
 ==================
